@@ -1,0 +1,79 @@
+/* body{
+    font-family: 'Poppins', sans-serif;
+} */
+.sideNavimg{
+height: 40px;
+width: 150px;
+border-radius: none;
+border: none;
+text-decoration: none;
+}
+.image{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    
+}
+.iconRadius{
+    border: 3px solid ghostwhite;
+    border-radius: 50%;
+}
+.borderRound{
+    border: 10px solid orange;
+    border-radius: 20px;
+    height: 7px;
+    width: 170px;
+}
+.borderRoundP{
+    height: 19px;
+    width: 120px;
+    background-color: orangered;
+}
+
+.borderRound2{
+    border: 10px solid skyblue;
+    border-radius: 20px;
+    height: 7px;
+    width: 170px;
+}
+.borderRoundP2{
+    height: 19px;
+    width: 120px;
+    background-color: steelblue;
+}
+.bordersDiv{
+    height: 400px;
+}
+.dotIcon{
+    height: 10px;
+    width: 10px;
+}
+.dotIcon2{
+    height: 10px;
+    width: 10px;
+    border: 2px solid orange;
+}
+.dotIcon3{
+    height: 10px;
+    width: 10px;
+    border: 2px solid skyblue;
+}
+.images{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.forms{
+    margin-left: 28%;
+    margin-top: 70px;
+    width: 70%;
+}
+
+.popNav{
+    height: 100px;
+    width: 100%;
+}
+.crossBtn{
+    font-size: 30px;
+  
+}
